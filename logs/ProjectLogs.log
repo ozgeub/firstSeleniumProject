@@ -1,0 +1,946 @@
+[DEBUG] 2019-12-02 17:48:29.930 [main] ProjectLog - nullhas not been initialized
+[DEBUG] 2019-12-02 17:48:29.933 [main] ProjectLog - chromehas been initialized
+[DEBUG] 2019-12-02 17:48:34.290 [main] ProjectLog - http://www.hepsiburada.comhas been openned
+[INFO ] 2019-12-02 17:48:34.304 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 17:53:19.334 [main] ProjectLog - Page loaded successfully !
+[ERROR] 2019-12-02 17:53:19.338 [main] ProjectLog - HERE IS THE ERROR LOG
+[INFO ] 2019-12-02 18:16:56.360 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:17:01.413 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 18:18:15.832 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:18:27.718 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 18:19:27.720 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:19:40.466 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 18:32:54.072 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:33:03.415 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 18:33:41.275 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:33:46.925 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-02 18:42:46.227 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-02 18:42:50.476 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 10:36:05.015 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 10:42:11.129 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 10:42:12.768 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 10:48:13.886 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 10:48:15.850 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 10:49:50.540 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 10:49:52.650 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 10:54:04.479 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 10:54:06.211 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:34:45.748 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:34:51.749 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:35:28.471 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:35:33.395 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:36:21.153 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:36:24.870 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:41:12.465 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:41:17.198 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:41:45.744 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:41:52.368 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:54:47.153 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 11:55:01.467 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 11:55:01.836 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 12:02:38.012 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 12:02:43.657 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 12:02:43.996 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 12:09:52.685 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 12:09:57.088 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 12:09:57.462 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 12:11:13.867 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 12:11:15.631 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 12:11:15.969 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 12:13:32.861 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 12:13:37.249 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 12:13:38.526 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 12:13:39.309 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:02:13.849 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:02:30.823 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:02:47.491 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:02:48.957 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:03:54.105 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:03:56.651 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:03:57.245 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:03:58.215 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:07:08.976 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:07:12.195 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:07:12.852 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:07:13.634 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:08:29.986 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:08:32.668 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:08:33.205 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:08:34.299 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:09:38.576 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:09:40.230 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:09:52.977 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:09:54.433 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:09:55.312 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:09:55.963 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:10:22.516 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:10:25.160 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:10:25.971 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:10:26.641 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:14:32.662 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:14:34.147 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:14:49.213 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:14:52.033 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:14:52.854 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:14:53.587 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:15:56.862 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:15:58.685 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:15:59.538 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:16:00.252 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:16:53.576 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:16:56.520 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:16:57.301 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:17:15.080 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:17:18.085 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:17:18.642 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:17:46.149 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:17:47.601 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:20:38.348 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:20:39.490 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:21:22.781 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:21:24.096 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:21:58.674 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:21:59.946 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:22:29.057 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:22:30.768 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:22:31.836 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:22:57.110 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:22:59.745 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:23:00.322 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:23:38.124 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:23:41.317 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:23:42.222 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:23:43.090 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:24:44.520 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:24:46.020 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:24:47.209 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:24:48.317 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:25:50.767 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:25:53.164 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:25:53.903 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:26:07.230 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:26:09.616 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:26:10.379 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:26:11.824 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:30:35.451 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:30:36.567 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:31:51.295 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:31:53.693 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:31:54.064 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:31:54.326 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:36:26.622 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:36:29.319 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:36:29.522 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:36:30.241 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:36:31.407 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:39:46.854 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:39:48.489 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:39:48.612 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:39:49.487 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:39:50.603 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:43:40.752 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:43:43.454 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:43:43.790 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:43:44.191 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 13:43:45.350 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 13:44:26.037 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:44:27.499 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:44:27.560 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:48:26.642 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:48:27.941 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:48:28.082 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:54:24.771 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 13:54:27.310 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 13:54:27.520 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 13:54:27.708 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:08:38.229 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:08:40.176 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:08:40.349 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:08:40.564 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:08:41.692 [main] ProjectLog - Login pop-up openned successfully
+[INFO ] 2019-12-05 16:08:43.849 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-05 16:11:35.978 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:11:39.102 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:11:39.332 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:11:40.009 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:11:57.014 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:11:59.493 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:11:59.549 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:11:59.744 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:12:01.192 [main] ProjectLog - Login pop-up openned successfully
+[ERROR] 2019-12-05 16:12:02.293 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-05 16:15:21.756 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:15:23.573 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:15:23.715 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:15:23.929 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:15:38.652 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:15:41.729 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:15:41.949 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:15:42.514 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:19:24.236 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:19:25.992 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:19:26.084 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:19:26.327 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-05 16:23:02.554 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:23:04.419 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:23:04.525 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:25:25.357 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:25:27.194 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:25:27.285 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:25:52.803 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-05 16:25:55.506 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-05 16:25:55.951 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-05 16:25:56.423 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 11:06:11.125 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 11:06:49.271 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 11:09:14.002 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 11:13:22.490 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 13:59:03.115 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:00:35.948 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:00:40.907 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:00:41.206 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:00:41.550 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:19:31.346 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:19:41.912 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:19:42.073 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:19:42.750 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:35:53.076 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:36:04.764 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:36:05.089 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:36:05.401 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:38:58.057 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:39:08.043 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:39:08.187 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:39:09.094 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:40:08.294 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:40:17.963 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:40:18.067 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:40:18.371 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:42:07.720 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:42:15.914 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:42:16.006 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:42:16.521 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:42:17.869 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:43:43.488 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:43:52.741 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:43:52.870 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:43:53.465 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:45:13.125 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:45:22.108 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:45:22.236 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:45:23.029 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:45:24.016 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:46:40.360 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:46:52.415 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:46:52.608 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:46:52.958 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:47:32.532 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:47:43.056 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:47:43.181 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:47:43.500 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:47:44.604 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:47:48.441 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-06 14:48:06.667 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:48:16.141 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:48:16.245 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:48:16.668 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:48:17.721 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:48:22.317 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-06 14:49:11.780 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:49:22.774 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:49:23.132 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:49:23.762 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:49:24.761 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:49:27.572 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-06 14:52:29.196 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:52:35.564 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:52:35.744 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:52:36.639 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:52:37.945 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:52:40.905 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-06 14:53:07.335 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-06 14:53:16.671 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-06 14:53:16.911 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-06 14:53:17.751 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-06 14:53:18.789 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-06 14:53:23.170 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-08 19:53:41.451 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-08 19:53:44.173 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-08 19:53:44.339 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-08 19:56:09.917 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-08 19:56:12.532 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-08 19:56:12.778 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-08 19:56:13.139 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-08 19:56:14.389 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-08 19:56:14.982 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-08 20:02:23.639 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2019-12-08 20:02:25.331 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-08 20:02:25.529 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2019-12-08 20:02:26.841 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-08 20:02:27.548 [main] ProjectLog - Login pop-up opened successfully
+[INFO ] 2019-12-08 20:02:28.705 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2019-12-09 19:09:46.114 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:24:04.000 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:24:07.847 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:24:11.225 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:24:11.297 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 19:25:22.267 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:25:26.718 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:25:26.793 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 19:32:16.884 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:32:21.241 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:32:21.324 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 19:33:43.589 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:33:47.748 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:37:12.067 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:37:16.585 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:37:16.678 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 19:40:59.320 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:41:07.593 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:41:07.681 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 19:49:46.203 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 19:49:54.821 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 19:49:54.924 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 20:20:55.466 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 20:21:03.819 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 20:21:03.919 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2019-12-09 20:24:29.900 [main] ProjectLog - Here is the Page URLhttp://www.hepsiburada.com
+[INFO ] 2019-12-09 20:24:36.649 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2019-12-09 20:24:36.747 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 17:41:53.268 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 17:54:32.304 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:27:48.623 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:29:32.148 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:29:48.742 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:34:19.717 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:34:36.732 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:34:36.834 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:38:31.160 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:38:46.955 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:38:47.051 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:41:15.734 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:41:31.940 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:41:32.019 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:41:32.216 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 19:46:20.701 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:46:38.167 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:46:38.272 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:46:38.455 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 19:52:09.523 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:52:26.240 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:52:26.339 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:52:26.567 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 19:52:34.140 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 19:52:34.816 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 19:53:05.303 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:53:22.371 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:53:22.485 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:53:22.677 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 19:53:28.514 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 19:53:29.082 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 19:56:45.572 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 19:57:01.648 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 19:57:01.735 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 19:57:01.921 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 19:57:07.889 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 19:57:08.463 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 20:05:26.361 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 20:05:42.244 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 20:05:42.328 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 20:05:42.588 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 20:05:48.544 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 20:05:49.222 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 20:06:46.833 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 20:07:02.868 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 20:07:02.972 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 20:07:03.208 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 20:07:09.155 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 20:07:09.725 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 20:10:13.614 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 20:10:29.510 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 20:10:29.589 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 20:10:29.822 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 20:10:36.943 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 20:10:37.586 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 20:13:31.228 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 20:13:47.340 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 20:13:47.425 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 20:13:47.661 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 20:13:55.086 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 20:13:55.553 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 20:29:19.202 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 20:29:35.404 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 20:29:35.486 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 20:29:35.680 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 20:29:41.744 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 20:29:42.386 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 21:36:38.537 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 21:36:55.114 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 21:36:55.248 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 21:36:55.419 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 21:37:02.758 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 21:37:03.207 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:13:13.914 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:13:35.813 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:13:35.876 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:13:36.037 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:13:45.502 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:13:45.909 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:14:46.906 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:15:03.140 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:15:03.205 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:15:03.390 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:15:08.863 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:15:09.292 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:16:26.177 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:16:42.471 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:16:42.526 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:16:42.685 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:16:49.874 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:16:50.282 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:19:20.364 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:19:36.191 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:19:36.282 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:19:36.448 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:19:43.627 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:19:44.054 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:25:17.927 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:25:34.217 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:25:34.277 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:25:34.434 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:25:41.413 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:25:41.819 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-13 22:28:54.175 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-13 22:29:10.247 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-13 22:29:10.306 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-13 22:29:10.480 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-13 22:29:17.844 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-13 22:29:18.252 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 10:59:38.825 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:00:41.468 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:00:41.560 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:00:41.818 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:01:11.900 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:01:12.410 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:09:43.711 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:09:58.541 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:09:58.645 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:09:58.847 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:10:04.859 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:10:05.503 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:13:19.752 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:13:35.894 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:13:35.993 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:13:36.180 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:13:43.625 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:13:44.286 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:16:10.214 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:16:27.128 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:16:27.202 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:16:27.453 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:16:35.058 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:16:35.727 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:37:25.185 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:37:41.951 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:37:42.035 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:37:42.259 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:37:49.971 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:37:50.664 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:39:52.278 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:40:09.160 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:40:09.245 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:40:09.457 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:40:17.463 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:40:18.000 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:44:18.631 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:44:35.042 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:44:35.116 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:44:35.325 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:44:41.334 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:44:41.921 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 11:46:30.206 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 11:46:46.877 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 11:46:46.954 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 11:46:47.149 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 11:46:53.039 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 11:46:53.774 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 12:01:50.772 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 12:02:07.438 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 12:02:07.521 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 12:02:07.714 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 12:02:15.319 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 12:02:15.976 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-11-14 12:03:35.934 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-11-14 12:03:52.407 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-11-14 12:03:52.487 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-11-14 12:03:52.676 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-11-14 12:03:58.455 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-11-14 12:03:59.070 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 15:25:39.079 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:25:57.174 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:25:57.311 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:25:57.583 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:26:02.865 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 15:26:03.452 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 15:31:09.876 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:35:01.101 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:35:19.386 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:35:19.564 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:35:19.789 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:37:39.176 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:37:53.565 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:37:53.709 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:37:53.978 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:39:39.619 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:39:57.016 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:39:57.238 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:39:57.520 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:40:03.137 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 15:40:03.694 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 15:46:10.097 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:46:27.497 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:46:27.656 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:46:27.906 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:46:30.265 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 15:46:31.082 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 15:47:58.782 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:48:18.514 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:48:18.706 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:48:18.950 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 15:48:24.208 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 15:48:24.746 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 15:57:51.588 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 15:58:02.612 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 15:58:02.777 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 15:58:03.045 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:04:34.063 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:05:34.014 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:05:51.016 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:05:51.185 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:05:51.445 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:05:56.618 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 16:05:57.149 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 16:09:33.111 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:09:52.537 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:09:52.726 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:09:52.994 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:09:59.042 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 16:09:59.609 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 16:12:19.328 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:12:35.690 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:12:35.832 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:12:36.002 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:12:42.153 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 16:12:42.696 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 16:13:21.931 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:13:38.202 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:13:38.344 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:14:28.531 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:14:45.557 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:14:45.685 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:17:49.584 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:18:09.545 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:18:09.704 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:18:09.942 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:18:15.635 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 16:18:16.150 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 16:26:44.526 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 16:27:07.047 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 16:27:07.204 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 16:27:07.489 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 16:27:15.505 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 16:27:16.089 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:02:13.163 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:02:16.617 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:02:16.751 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:02:17.463 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:02:20.633 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:02:21.277 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:04:43.728 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:04:47.141 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:04:47.272 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:04:47.840 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:04:51.123 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:04:51.734 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:08:55.333 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:08:57.819 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:08:57.968 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:08:58.484 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:09:01.639 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:09:02.148 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:16:27.356 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:16:29.540 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:16:29.671 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:16:30.445 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:16:33.763 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:16:34.429 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:21:31.242 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:21:34.334 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:21:34.480 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:21:35.072 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:21:38.393 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:21:38.879 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:22:52.320 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:22:54.700 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:22:54.958 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:22:55.493 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:23:16.171 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:23:20.988 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:23:21.120 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:23:21.396 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:23:24.639 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:23:25.181 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:24:50.589 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:24:52.936 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:24:53.059 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:24:53.423 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:24:56.828 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:24:57.489 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:27:17.085 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:27:20.445 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:27:20.587 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:27:20.894 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:27:24.052 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:27:24.522 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:33:03.880 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:33:07.858 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:33:07.972 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:33:08.309 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:33:11.543 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:33:12.270 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:36:25.007 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:36:33.673 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:36:33.845 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:36:34.178 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:36:38.246 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:36:38.812 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 18:37:28.242 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 18:37:31.471 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 18:37:31.694 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 18:37:32.438 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 18:37:36.287 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 18:37:36.862 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:14:51.767 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:14:54.957 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:14:55.085 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:14:55.433 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:14:58.556 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:14:59.034 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:15:34.150 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:15:36.685 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:15:36.857 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:15:37.124 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:15:40.749 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:15:41.312 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:35:29.589 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:35:33.965 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:35:34.097 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:35:34.424 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:35:37.757 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:35:38.257 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:37:36.393 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:37:39.755 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:37:39.912 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:37:40.239 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:37:43.432 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:37:44.076 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:40:25.431 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:40:27.685 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:40:27.902 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:40:28.134 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:40:31.555 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:40:32.215 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:41:53.143 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:41:55.433 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:41:55.601 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:41:56.095 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:41:59.280 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:41:59.812 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:43:33.131 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:43:36.513 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:43:36.652 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:43:36.996 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:43:40.162 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:43:40.745 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:45:00.055 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:45:02.792 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:45:02.951 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:45:03.261 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:45:06.628 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:45:07.226 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:46:56.698 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:46:59.325 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:46:59.504 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:46:59.753 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:47:03.351 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:47:03.931 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:47:40.284 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:47:42.837 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:47:42.986 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:47:43.671 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:47:46.983 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:47:47.528 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:48:25.392 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:48:28.939 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:48:29.100 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:48:29.440 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:48:32.717 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:48:33.291 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 19:49:29.043 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 19:49:33.326 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 19:49:33.468 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 19:49:33.786 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 19:49:37.298 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 19:49:37.916 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 20:03:31.254 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 20:03:34.362 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 20:03:34.527 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 20:03:35.022 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 20:03:38.209 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 20:03:38.870 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 20:04:22.418 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 20:04:26.948 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 20:04:27.091 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 20:04:27.389 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 20:04:30.788 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 20:04:31.410 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 22:45:14.028 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 22:45:16.788 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 22:45:16.975 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 22:45:17.619 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 22:45:21.056 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 22:45:21.667 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-12 22:46:28.768 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-12 22:46:33.327 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-12 22:46:33.455 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-12 22:46:33.847 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-12 22:46:37.106 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-12 22:46:37.714 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 08:25:26.413 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 08:25:28.633 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 08:25:28.808 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 08:25:29.655 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 08:25:31.846 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 08:25:32.785 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:36:49.951 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:36:52.087 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:36:52.233 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:36:52.743 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:36:55.207 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:36:56.001 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:38:38.029 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:38:40.139 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:38:40.261 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:38:40.771 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:38:42.994 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:38:44.021 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:40:50.139 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:40:53.614 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:40:53.748 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:40:54.131 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:40:56.336 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:40:57.366 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:42:10.916 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:42:13.239 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:42:13.393 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:42:14.419 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:42:16.680 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:42:17.452 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:43:29.543 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:43:32.042 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:43:32.173 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:43:32.736 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:43:35.061 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:43:35.792 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:45:09.470 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:45:11.664 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:45:11.889 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:45:12.553 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:45:14.874 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:45:15.575 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:47:08.115 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:47:11.285 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:47:11.403 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:47:11.760 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:47:14.021 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:47:14.914 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:48:46.361 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:48:48.425 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:48:48.651 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:48:49.452 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:48:51.611 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:48:52.324 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:49:37.045 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:49:39.994 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:49:40.174 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:49:40.458 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:49:42.903 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:49:43.460 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:53:29.570 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:53:31.912 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:53:32.087 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:53:32.336 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:53:36.734 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:53:37.216 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:54:40.580 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:54:43.816 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:54:43.949 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:54:44.500 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:54:47.007 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:54:47.864 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 09:59:31.545 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 09:59:35.296 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 09:59:35.428 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 09:59:35.795 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 09:59:38.083 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 09:59:38.962 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:03:23.748 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:03:25.811 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:03:25.964 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:03:26.669 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:03:28.757 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:03:29.744 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:23:16.754 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:23:20.187 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:23:20.329 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:23:20.654 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:23:22.790 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:24:22.176 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:24:25.187 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:24:25.319 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:24:25.815 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:24:28.184 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:25:10.166 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:25:12.274 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:25:12.454 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:25:12.986 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:25:15.657 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:26:41.403 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:26:44.949 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:26:45.077 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:26:45.596 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:26:48.795 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:26:50.114 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:30:18.852 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:30:20.932 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:30:21.083 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:30:21.872 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:30:24.413 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:30:25.859 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:32:26.445 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:32:28.524 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:32:28.715 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:32:29.399 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:32:31.527 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:32:33.293 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:35:46.353 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:35:48.500 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:35:48.660 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:35:48.944 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:35:52.260 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:36:20.371 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:36:22.538 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:36:22.697 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:36:23.373 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:36:25.387 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:37:07.059 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:37:09.664 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:37:09.829 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:37:10.431 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:37:13.405 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:37:15.758 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:40:33.819 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:40:36.124 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:40:36.296 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:40:36.999 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:40:39.102 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:40:41.821 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:41:10.835 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:41:14.111 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:41:14.271 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:41:14.664 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:41:17.125 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:41:19.964 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:43:44.349 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:43:47.835 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:43:47.941 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:43:48.350 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:43:50.669 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:43:53.381 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:44:56.243 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:44:58.368 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:44:58.564 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:44:58.796 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:45:01.301 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:45:04.125 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:48:18.167 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:48:21.609 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:48:21.717 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:48:22.028 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:48:24.913 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:48:27.501 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 10:49:20.039 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:49:23.038 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:49:23.227 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:49:23.914 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:49:25.424 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:49:53.544 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:49:55.642 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:49:55.854 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:49:56.531 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:49:58.972 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:55:44.750 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:55:48.297 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:55:48.416 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:55:48.776 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:55:51.779 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:56:45.130 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:56:49.857 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:56:50.045 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:56:50.289 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:56:52.666 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:57:30.034 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 10:57:32.047 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 10:57:32.238 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 10:57:32.864 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 10:57:38.666 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 10:57:44.323 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 11:25:11.508 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:25:14.968 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:25:17.509 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:25:19.695 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:25:19.799 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:25:20.049 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:25:22.741 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 11:25:23.585 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 11:27:38.113 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:27:41.824 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:28:25.039 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:28:27.397 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:28:27.543 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:28:28.229 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:28:30.461 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 11:28:31.228 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 11:30:09.667 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:30:11.815 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:30:14.361 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:30:17.429 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:30:17.544 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:30:17.788 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:30:20.729 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 11:30:21.247 [main] ProjectLog - Login operation has performed successfully !
+[INFO ] 2021-12-13 11:30:26.022 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:30:28.257 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:30:28.369 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:30:28.724 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:30:31.385 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 11:30:35.485 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:30:38.838 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:30:38.949 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:30:39.199 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:30:41.551 [main] ProjectLog - Login pop-page opened successfully
+[INFO ] 2021-12-13 11:30:44.536 [main] ProjectLog - Here is the Page URLhttp://www.trendyol.com
+[INFO ] 2021-12-13 11:30:46.688 [main] ProjectLog - Page loaded successfully !
+[INFO ] 2021-12-13 11:30:46.857 [main] ProjectLog - Pop - up page displays successfully
+[INFO ] 2021-12-13 11:30:47.055 [main] ProjectLog - Login button found successfully, lets click it!
+[INFO ] 2021-12-13 11:30:49.678 [main] ProjectLog - Login pop-page opened successfully
